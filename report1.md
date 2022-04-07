@@ -1,13 +1,14 @@
-# a toturial 
+# A tutorial 
+##    ---- about how to login in specific account on `ieng6`
 
-## Installing VS code
+* Installing VS code
 
-## Romotely connecting
+* Romotely connecting
 
-## Trying some commands
+* Trying some commands
  
-## Moving Files with scp
+* Moving Files with scp
 
-## Setting an SSH key
+* Setting an SSH key
 
-## Optimizing Remote running
+* Optimizing Remote running
