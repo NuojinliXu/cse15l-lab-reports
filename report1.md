@@ -41,5 +41,21 @@
 
 
 * Setting an SSH key
+    use `ssh-keygen` command to generate your rsa key, it also shows the path where the key is stored, use `cat [directory]` to see the key.
+    you can copy the key and use it for fruther use, for example connecting to github. 
+    
+    example here:
+    ![](https://user-images.githubusercontent.com/103154918/162555937-eccb6a12-36e8-41e7-9db4-cc942f01be67.jpg)
+
+    
 
 * Optimizing Remote running
+    Install [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension for vscode. 
+    Open vscode, press `command-shift-p` and search for > Remote-SSH: Connect to Host. 
+    Then choose Add New SSH Host and input `ssh cs15lsp22xxx@ieng6.ucsd.edu`
+    After entering your password, you are able to access files and terminal of ieng6 server through vscode 
+    
+    example for successfully access files and terminal of server from vscode:
+    ![](https://user-images.githubusercontent.com/103154918/162556554-137c0f6b-83db-4649-b46a-0c1da84314b2.png)
+
+    
