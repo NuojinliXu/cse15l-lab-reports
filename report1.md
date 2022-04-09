@@ -9,8 +9,14 @@
     Then, you can choose which one to download based on your own computer system
 
 * Romotely connecting
+    use the command `ssh cs15lsp22xxx@ieng6.ucsd.edu` (replacing "xxx" with your account name) on the terminal on your local computer
+    
+    example here:
+![example](https://user-images.githubusercontent.com/103154918/162554678-5366a0d3-bf75-4e86-9114-0dd4c3201614.png)
+    then enter your password
 
 * Trying some commands
+   
  
 * Moving Files with scp
 
