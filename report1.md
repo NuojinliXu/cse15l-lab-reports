@@ -3,7 +3,8 @@
 
 ## Installing VS code
 
-    You can install VS code strated by clicking on this link: [ToInstall](https://code.visualstudio.com/download)
+    You can install VS code strated by clicking on this link: 
+   [ToInstall](https://code.visualstudio.com/download)
     (The website should look like this: 
    
    ![this](https://user-images.githubusercontent.com/103154918/162254994-652e192d-4505-4136-984a-ada96a65577a.png)
