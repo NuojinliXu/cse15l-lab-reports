@@ -56,6 +56,7 @@
     If you only have several commands to run, you don't have to login in the sever. Instead, you can use `ssh cs15lsp22xxx@ieng6.ucsd.edu "command"`to quickly run the command in one line without logging in the sever.
     example 1 here:
 ![](https://user-images.githubusercontent.com/103154918/163899903-9cbfda82-0ec2-4d1c-8543-3cc68138b19e.png)
+
     example 2 here:
 ![](https://user-images.githubusercontent.com/103154918/163899947-e2d6deb7-0705-49e0-b9ad-e1bd8796da2e.png)
     
