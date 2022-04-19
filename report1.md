@@ -16,8 +16,10 @@ Then, you can choose which one to download based on your own computer system
 use the command `ssh cs15lsp22xxx@ieng6.ucsd.edu` (replacing "xxx" with your account name) on the terminal on your local computer
     
 example here:
+
 ![example](/image/ssh.png)
-    then enter your password
+
+then enter your password
 
 ## Trying some commands
 1.`ls`command: list files and directories in your current directory (you can use `ls -a` to show hidden files) 
@@ -68,9 +70,11 @@ example here:
 If you only have several commands to run, you don't have to login in the sever. Instead, you can use `ssh cs15lsp22xxx@ieng6.ucsd.edu "command"`to quickly run the command in one line without logging in the sever.
 
 example 1 here:
+
 ![](/image/optimizing2.png)
 
 example 2 here:
+
 ![](/image/optimizing.png)
     
 
