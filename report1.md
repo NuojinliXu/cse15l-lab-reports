@@ -50,12 +50,12 @@
     
 
 ## Optimizing Remote running
-    Install [Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension for vscode. 
-    Open vscode, press `command-shift-p` and search for > Remote-SSH: Connect to Host. 
-    Then choose Add New SSH Host and input `ssh cs15lsp22xxx@ieng6.ucsd.edu`
-    After entering your password, you are able to access files and terminal of ieng6 server through vscode 
+    If you only have several commands to run, you don't have to login in the sever. Instead, you can use `ssh cs15lsp22xxx@ieng6.ucsd.edu "command"`to quickly run the command in one line without logging in the sever.
+    example 1 here:
+    ![](https://user-images.githubusercontent.com/103154918/163899903-9cbfda82-0ec2-4d1c-8543-3cc68138b19e.png)
+    example 2 here:
+    ![](https://user-images.githubusercontent.com/103154918/163899947-e2d6deb7-0705-49e0-b9ad-e1bd8796da2e.png)
     
-    example for successfully access files and terminal of server from vscode:
-    ![](https://user-images.githubusercontent.com/103154918/162556554-137c0f6b-83db-4649-b46a-0c1da84314b2.png)
+
 
     
