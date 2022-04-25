@@ -34,7 +34,7 @@ Explanation: There might not be an open parenthesis after the close bracket, but
 
 ## Third change
 ![Third change](change3.png)
-[test-file5](test-file5.md)
+[test-file6](test-file6.md)
 
 `java MarkdownParse test-file6.md `
 
