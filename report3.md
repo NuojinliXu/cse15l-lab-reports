@@ -30,7 +30,7 @@ We can copy a whole directory to ieng6 with `scp -r` command
 
 Now we can run the test on ieng6
 
-![](/report3-image/run.png)
+![](/report3-image/run-ieng6.png)
 
 Or we can combine the whole process in one line of command
 
