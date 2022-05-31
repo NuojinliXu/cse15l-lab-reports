@@ -13,11 +13,16 @@ Third test
 ![test3](report4-image/test3.png)
 ![junit1](report4-image/junit3.png)
 
-For both my and the reviewed code, we have the same error while runing the junit test
+Test results on my code
 
 ![result1](report4-image/result1.png)
 ![result2](report4-image/result2.png)
 ![result3](report4-image/result3.png)
+
+Test results on the code I reviewed
+![result1](report4-image/review-test1.png)
+![result2](report4-image/review-test2.png)
+![result3](report4-image/review-test3.png)
 ## Questions
 1. Yes, I added the following changes
 ![change](report4-image/change1.png)
